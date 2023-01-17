@@ -13,5 +13,7 @@ My favoritte quote is
 
 ### On my freetime this is what I like to do
 1.I like to learn Cyber Securoty and Hacking on [tryhackme](https://tryhackme.com/)
+
 2. Watch anime
-3. Play video games
+3. 
+4. Play video games

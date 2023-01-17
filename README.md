@@ -12,7 +12,7 @@ My favoritte quote is
 > “Pain unlocks a secret doorway in the mind, one that leads to both peak performance, and beautiful silence.” - David Goggins
 
 ### On my freetime this is what I like to do
-1.I like to learn Cyber Securoty and Hacking on [tryhackme](https://tryhackme.com/)
+1. I like to learn Cyber Securoty and Hacking on [tryhackme](https://tryhackme.com/)
 
 2. Watch anime
  

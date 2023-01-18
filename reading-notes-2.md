@@ -9,3 +9,5 @@ The command line is a interface that a user interacts with the computer. Everyth
 
 
 ## Things I want to know more about
+
+> what is -rwxr-xr-x in the linux?

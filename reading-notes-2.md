@@ -10,4 +10,6 @@ The command line is a interface that a user interacts with the computer. Everyth
 
 ## Things I want to know more about
 
-> what is -rwxr-xr-x in the linux?
+1. what is -rwxr-xr-x in the linux? 
+
+2. Is the folder/finder in windows, linux, and macOS consider the command line to the user?

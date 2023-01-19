@@ -1,6 +1,6 @@
 # Hello World!
 
-My name is Julio Ramirez and I am a Marine veteran
+My name is Julio Ramirez and I am a Marine veteran. I am excited to join this program and become a Software Developer.
 
 ## Growth Mindset
 

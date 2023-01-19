@@ -1,6 +1,6 @@
 # Hello World!
 
-My name is Julio Ramirez
+My name is Julio Ramirez and I am a Marine veteran
 
 ## Growth Mindset
 

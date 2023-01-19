@@ -1,6 +1,6 @@
 # Hello World!
 
-My name is Julio Ramirez and I am a Marine veteran. I am excited to join this program and become a Software Developer.
+My name is Julio Ramirez and I am a Marine veteran. I am excited to join this program and become a Software Developer. My GitHub Portfolio is [CLICK ME](https://github.com/rzvdev1)
 
 ## Growth Mindset
 
@@ -14,6 +14,11 @@ Taking feedback from other will help me from others to learn and grow to become 
 My favoritte quote is
 
 > “Pain unlocks a secret doorway in the mind, one that leads to both peak performance, and beautiful silence.” - David Goggins
+
+## Reading Notes
+- [code-102](https://rzvdev1.github.io/reading-notes/code-102/)
+
+- [code-201](https://rzvdev1.github.io/reading-notes/code-201/)
 
 ### On my freetime this is what I like to do
 

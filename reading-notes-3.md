@@ -8,3 +8,6 @@ Git came from the linux community becasue there was tension with BitKeeper. The 
 1. In 2005, if there was no tension would linux became a paid source like BitKeeper?
 
 2. Does BitKeeper regret losing the linux community because they have millions of developes using their sysytem?
+
+
+### My resource was the article [click here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)

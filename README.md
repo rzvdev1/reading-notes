@@ -16,7 +16,9 @@ My favoritte quote is
 > “Pain unlocks a secret doorway in the mind, one that leads to both peak performance, and beautiful silence.” - David Goggins
 
 ## Reading Notes
+- [102]()
 
+- [code-201]()
 
 ### On my freetime this is what I like to do
 

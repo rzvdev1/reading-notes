@@ -1,5 +1,4 @@
-Hello World!
-===============
+# Hello World!
 
 My name is Julio Ramirez and I am a Marine veteran. I am excited to join this program and become a Software Developer. My GitHub Portfolio is [CLICK ME](https://github.com/rzvdev1)
 
@@ -28,7 +27,7 @@ My favoritte quote is
 
 ### On my freetime this is what I like to do
 
-1. I like to learn Cyber Securoty and Hacking on [tryhackme](https://tryhackme.com/)
+1. I like to learn Cyber Security and Hacking on [tryhackme](https://tryhackme.com/)
 
 2. Watch anime
 

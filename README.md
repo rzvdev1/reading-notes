@@ -15,10 +15,11 @@ My favoritte quote is
 
 > “Pain unlocks a secret doorway in the mind, one that leads to both peak performance, and beautiful silence.” - David Goggins
 
-## Reading Notes
-- [code-102](https://rzvdev1.github.io/reading-notes/code-102/)
+# Reading Notes
 
-- [code-201](https://rzvdev1.github.io/reading-notes/code-201/)
+- [Code-102](https://rzvdev1.github.io/reading-notes/code-102/)
+
+- [Code-201](https://rzvdev1.github.io/reading-notes/code-201/)
 
 ### On my freetime this is what I like to do
 

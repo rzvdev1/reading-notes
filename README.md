@@ -19,7 +19,7 @@ My favoritte quote is
 
 - [Code-102](https://rzvdev1.github.io/reading-notes/code-102/) - Intro to Software Development
 
-- [Code-201](https://rzvdev1.github.io/reading-notes/code-201/.md) - Foundations of Software Development
+- [Code-201](https://rzvdev1.github.io/reading-notes/code-201/.) - Foundations of Software Development
 
 - [Code-301](https://rzvdev1.github.io/reading-notes/code-102/) - Intermediate Software Development
 

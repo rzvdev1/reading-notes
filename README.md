@@ -17,7 +17,7 @@ My favoritte quote is
 
 # Reading Notes
 
-- [Code-102](./code-102/reading-notes-1.md) - Intro to Software Development
+- [Code-102](https://rzvdev1.github.io/reading-notes/code-102/reading-notes-1.md) - Intro to Software Development
 
 - [Code-201](https://rzvdev1.github.io/reading-notes/code-201/) - Foundations of Software Development
 

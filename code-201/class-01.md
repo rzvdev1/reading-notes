@@ -15,4 +15,4 @@ I learn that an HTML attribute is inforamtion that wont appear on the content an
 developer mozilla,[^1] and developer mozilla.[^note]
 
 [^1]: [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-[^note]: [JavaScript] (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+[^note]: [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)

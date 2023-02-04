@@ -2,7 +2,7 @@
 
 This topic is important because this is the core to web development and I studying to become a proficient developer. I will be studying web development in this module and learing the nessasary key items.
 
-I laern that an HTML attribute is inforamtion on
+I learn that an HTML attribute is inforamtion that wont appear on the content and used as a target to style the element.
 
 ## Things I want to know more about
 
@@ -10,6 +10,8 @@ I laern that an HTML attribute is inforamtion on
 
 2. When creating a website how is it patched from a cyber attack?
 
-### Here is a simple resource I developer mozilla [^1]. With some additional text after it.
+### These are the resources I use from developer mozilla [^1] [^2].
 
 [^1]: [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+
+[^2] [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)

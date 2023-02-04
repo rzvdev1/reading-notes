@@ -10,7 +10,7 @@ I learn that an HTML attribute is inforamtion that wont appear on the content an
 
 2. When creating a website how is it patched from a cyber attack?
 
-### These are the resources I use from developer mozilla [^1] [^2].
+### These are the resources I use from developer mozilla [^1] HTML and [^2] JavaScript.
 
 [^1]: [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 

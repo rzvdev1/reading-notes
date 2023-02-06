@@ -25,6 +25,8 @@ My favoritte quote is
 
 1. [Introductory to HTML & JavaScript](/code-201/class-01.md)
 
+2. [Basics of HTML, CSS & JS](/code-201/reading-notes-2.md)
+
 - [Code-301](https://rzvdev1.github.io/reading-notes/code-301/) - Intermediate Software Development
 
 - [Code-401](https://rzvdev1.github.io/reading-notes/code-401/) - Advanced Software Development

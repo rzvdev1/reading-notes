@@ -26,6 +26,7 @@ My favoritte quote is
 1. [Introductory to HTML & JavaScript](/code-201/class-01.md)
 
 2. [Basics of HTML, CSS & JS](/code-201/reading-notes-2.md)
+3. [HTML Lists, Control Flow with JS, and the CSS Box Model](/code-201/reading-notes-3.md)
 
 - [Code-301](https://rzvdev1.github.io/reading-notes/code-301/) - Intermediate Software Development
 

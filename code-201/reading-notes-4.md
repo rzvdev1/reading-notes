@@ -16,7 +16,7 @@ The 2 benefits to pair programming I pick for my coding journey is Engaged colla
 
 1. For the HTML a tag and link can they be used inb one line of code?
 
-2. Learn more about the JavaScript addEventListener method.
+2. Learn more about the JavaScript addEventListener method
 
 ### Resources I use
 

@@ -11,7 +11,7 @@ Whenever I dont feel like motivation for anything I go on youtube and watch some
 Whenever I encounter a problem I cannot solve I walk away and find my self do something not realted to the task to clear my mind.
 Taking feedback from other will help me from others to learn and grow to become a better mind set.
 
-My favoritte quote is
+My favorite quote is
 
 > “Pain unlocks a secret doorway in the mind, one that leads to both peak performance, and beautiful silence.” - David Goggins
 
@@ -24,9 +24,9 @@ My favoritte quote is
 ## Table of Contents:
 
 1. [Introductory to HTML & JavaScript](/code-201/class-01.md)
-
 2. [Basics of HTML, CSS & JS](/code-201/reading-notes-2.md)
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](/code-201/reading-notes-3.md)
+4. [HTML Links, JS Functions, and Intro to CSS Layout](/code-201/reading-notes-4.md)
 
 - [Code-301](https://rzvdev1.github.io/reading-notes/code-301/) - Intermediate Software Development
 

@@ -3,11 +3,7 @@
 This topic of this sections is important because knowing how to make links layout to a webpage make it a better user experience. Knowing JavaScript function will make developer better with web page interation and it ties all in together for the web page flow.
 
 To create a basic link by wrapping the content inside a anchor tag. The href attribute contains a URL link to a different web page. To make a links on our pages accessible to all readers by using concise text and avoid all caps. The difference for block-level and inline elements are the following:
-| Block-level | Inline |
-| --- | ----------- |
-| parent element | element |
-| grows block dimension to accommodate its content | size of the content |
-| you can set width or height | you can't set width or height on inline elements|
+Block-level: parent element, grows block dimension to accommodate its content and you can set width or height. Inline is element, size of the content, you can set width or height and you can't set width or height on inline elements|
 
 Normal flow means a default web page layout without any CSS added. Static positioning is the default that every element gets for HTML. The advantage of using absolute positioning on an element is create isolated UI features that don't interfere with the layout of other elements on the page and they specify the distance the element should be from each of the containing element's sides. The key difference between fixed positioning and absolute positioning is absolute positioning fixes an element in place relative to its nearest positioned ancestor .
 

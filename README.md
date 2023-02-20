@@ -28,6 +28,7 @@ My favorite quote is
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](/code-201/reading-notes-3.md)
 4. [HTML Links, JS Functions, and Intro to CSS Layout](/code-201/reading-notes-4.md)
 5. [Images, Color, Text](/code-201/reading-notes-5.md)
+6. [Problem Domain, Objects, and the DOM](/code-102/reading-notes-6.md)
 
 - [Code-301](https://rzvdev1.github.io/reading-notes/code-301/) - Intermediate Software Development
 

@@ -8,7 +8,7 @@ We need domain modeling because its a self-contained objects with the same attri
 
 1. When using the for/while loops can this keyword be used as well?
 
-2.
+2. I would like to learn more about the static methods.
 
 ### Resources I use
 

@@ -29,6 +29,7 @@ My favorite quote is
 4. [HTML Links, JS Functions, and Intro to CSS Layout](/code-201/reading-notes-4.md)
 5. [Images, Color, Text](/code-201/reading-notes-5.md)
 6. [Problem Domain, Objects, and the DOM](/code-102/reading-notes-6.md)
+7. [Object-Oriented Programming, HTML Tables](/code-201/reading-notes-7.md)
 
 - [Code-301](https://rzvdev1.github.io/reading-notes/code-301/) - Intermediate Software Development
 

@@ -31,7 +31,7 @@ My favorite quote is
 6. [Problem Domain, Objects, and the DOM](/code-102/reading-notes-6.md)
 7. [Object-Oriented Programming, HTML Tables](/code-201/reading-notes-7.md)
 8. [CSS Layout](/code-201/reading-notes-8.md)
-9. [Forms and JS Events](code-201/reading-notes-9.md)
+9. [Forms and JS Events](code-201/reading-notes-9.md) 10.[Debugging](code-201/reading-notes-10.md)
 
 - [Code-301](https://rzvdev1.github.io/reading-notes/code-301/) - Intermediate Software Development
 

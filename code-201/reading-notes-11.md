@@ -14,7 +14,7 @@ Developers will make images responsive because the device the user is a mobile d
 
 2. For accessibility which is better to use flex or grid?
 
-3.
+3. Learn how to produce audio and video files.
 
 ### Resources I use
 

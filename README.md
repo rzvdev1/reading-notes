@@ -33,6 +33,7 @@ My favorite quote is
 8. [CSS Layout](/code-201/reading-notes-8.md)
 9. [Forms and JS Events](code-201/reading-notes-9.md)
 10. [Debugging](code-201/reading-notes-10.md)
+11. [Audio, Video, Images](code-201/reading-notes-11.md)
 
 - [Code-301](https://rzvdev1.github.io/reading-notes/code-301/) - Intermediate Software Development
 

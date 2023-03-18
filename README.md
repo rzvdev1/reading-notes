@@ -35,6 +35,7 @@ My favorite quote is
 10. [Debugging](code-201/reading-notes-10.md)
 11. [Audio, Video, Images](code-201/reading-notes-11.md)
 12. [Chart.js, Canvas](/code-201/reading-notes-12.md)
+13. [Local Storage](/code-201/reading-notes-13.md)
 
 - [Code-301](https://rzvdev1.github.io/reading-notes/code-301/) - Intermediate Software Development
 

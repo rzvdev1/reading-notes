@@ -36,6 +36,8 @@ My favorite quote is
 11. [Audio, Video, Images](code-201/reading-notes-11.md)
 12. [Chart.js, Canvas](/code-201/reading-notes-12.md)
 13. [Local Storage](/code-201/reading-notes-13.md)
+14. [CSS Transforms, Transitions, and Animations](/code-201/reading-notes-14.md)
+15. [What google Learned About Teams](/code-201/reading-notes-15.md)
 
 - [Code-301](https://rzvdev1.github.io/reading-notes/code-301/) - Intermediate Software Development
 

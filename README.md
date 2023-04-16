@@ -41,6 +41,10 @@ My favorite quote is
 
 - [Code-301](https://rzvdev1.github.io/reading-notes/code-301/) - Intermediate Software Development
 
+## Table of Contents:
+
+1. [Introduction to React and Components](/code-301/reading-notes-1.md)
+
 - [Code-401](https://rzvdev1.github.io/reading-notes/code-401/) - Advanced Software Development
 
 ### On my freetime this is what I like to do

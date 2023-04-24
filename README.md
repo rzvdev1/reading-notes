@@ -46,6 +46,7 @@ My favorite quote is
 1. [Introduction to React and Components](/code-301/reading-notes-1.md)
 2. [State and Props](/code-301/reading-notes-2.md)
 3. [Passing Functions as Props](/code-301/reading-notes-3.md)
+4. [React and Forms](/code-301/reading-notes-4.md)
 
 - [Code-401](https://rzvdev1.github.io/reading-notes/code-401/) - Advanced Software Development
 

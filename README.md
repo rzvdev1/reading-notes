@@ -49,6 +49,7 @@ My favorite quote is
 4. [React and Forms](/code-301/reading-notes-4.md)
 5. [Putting it all together](/code-301/reading-notes-5.md)
 6. [REST](/code-301/reading-notes-6.md)
+7. [NODE.JS](/code-301/reading-notes-7.md)
 
 - [Code-401](https://rzvdev1.github.io/reading-notes/code-401/) - Advanced Software Development
 

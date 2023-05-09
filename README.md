@@ -50,6 +50,7 @@ My favorite quote is
 5. [Putting it all together](/code-301/reading-notes-5.md)
 6. [REST](/code-301/reading-notes-6.md)
 7. [NODE.JS](/code-301/reading-notes-7.md)
+8. [APIs](/code-301/reading-notes-8.md)
 
 - [Code-401](https://rzvdev1.github.io/reading-notes/code-401/) - Advanced Software Development
 

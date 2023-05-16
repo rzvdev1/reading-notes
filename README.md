@@ -52,6 +52,7 @@ My favorite quote is
 7. [NODE.JS](/code-301/reading-notes-7.md)
 8. [APIs](/code-301/reading-notes-8.md)
 9. [Functional Programming](/code-301/reading-notes-9.md)
+10. [In memory storage](/code-301/reading-notes-10.md)
 
 - [Code-401](https://rzvdev1.github.io/reading-notes/code-401/) - Advanced Software Development
 

@@ -53,6 +53,7 @@ My favorite quote is
 8. [APIs](/code-301/reading-notes-8.md)
 9. [Functional Programming](/code-301/reading-notes-9.md)
 10. [In memory storage](/code-301/reading-notes-10.md)
+11. [MongoDB and Mongoose](/code-301/reading-notes-11.md)
 
 - [Code-401](https://rzvdev1.github.io/reading-notes/code-401/) - Advanced Software Development
 

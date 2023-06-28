@@ -19,9 +19,9 @@ My favorite quote is
 
 - [Code-102](https://rzvdev1.github.io/reading-notes/code-102/) - Intro to Software Development
 
-- [Code-201](/code-201/) - Foundations of Software Development
+## [Code-201](/code-201/) - Foundations of Software Development
 
-## Table of Contents:
+### Table of Contents:
 
 1. [Introductory to HTML & JavaScript](/code-201/class-01.md)
 2. [Basics of HTML, CSS & JS](/code-201/reading-notes-2.md)
@@ -39,9 +39,9 @@ My favorite quote is
 14. [CSS Transforms, Transitions, and Animations](/code-201/reading-notes-14.md)
 15. [What google Learned About Teams](/code-201/reading-notes-15.md)
 
-- [Code-301](https://rzvdev1.github.io/reading-notes/code-301/) - Intermediate Software Development
+## [Code-301](https://rzvdev1.github.io/reading-notes/code-301/) - Intermediate Software Development
 
-## Table of Contents:
+### Table of Contents:
 
 1. [Introduction to React and Components](/code-301/reading-notes-1.md)
 2. [State and Props](/code-301/reading-notes-2.md)
@@ -59,7 +59,11 @@ My favorite quote is
 14. [Diversity, Equity, Inclusion, and Belonging](/code-301/reading-notes-14.md)
 15. [Authentication](/code-301/reading-notes-15.md)
 
-- [Code-401](https://rzvdev1.github.io/reading-notes/code-401/) - Advanced Software Development
+## [Code-401](https://rzvdev1.github.io/reading-notes/code-401/) - Advanced Software Development
+
+### Table of Contents:
+
+1. [](code-401/reading-notes-1.md)
 
 ### On my freetime this is what I like to do
 

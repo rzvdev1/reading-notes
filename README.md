@@ -61,7 +61,10 @@ My favorite quote is
 
 ## [Code-401](https://rzvdev1.github.io/reading-notes/code-401/) - Advanced Software Development
 
-- [Prework](/code-401/prework.md)
+#### Prework
+
+- [Command Line](/code-401/prework.md)
+- [Introduction to SQL](/code-401/prework-2.md)
 
 ### Table of Contents:
 

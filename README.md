@@ -65,6 +65,7 @@ My favorite quote is
 
 - [Command Line](/code-401/prework.md)
 - [Introduction to SQL](/code-401/prework-2.md)
+- [The Growth Mindset](/code-401/prework-3.md)
 
 ### Table of Contents:
 

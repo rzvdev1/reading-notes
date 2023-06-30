@@ -67,6 +67,7 @@ My favorite quote is
 - [Introduction to SQL](/code-401/prework-2.md)
 - [The Growth Mindset](/code-401/prework-3.md)
 - [Engineering Readings](/code-401/prework-4.md)
+- [HData Structures and Algorithms](/code-401/prework-5.md)
 
 ### Table of Contents:
 

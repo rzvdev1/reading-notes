@@ -30,9 +30,11 @@ GitHub is a website that allows developers to collaborate on projects together w
 
 ## Reflection
 
+My goals are to use the CI/CD method to deploy my projects. I want to be able to use TDD to test my code.
+
 ## Things I want to know more about
 
-1. ?
+1. Web Applications frameworks
 
 ### Resources I use
 

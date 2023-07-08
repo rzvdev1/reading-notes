@@ -73,6 +73,7 @@ My favorite quote is
 
 1. [Node Ecosystem](code-401/reading-notes-1.md)
 2. [Express, NPM, TDD, CI/CD](code-401/reading-notes-2.md)
+3. [Express REST API](code-401/reading-notes-3.md)
 
 ### On my freetime this is what I like to do
 

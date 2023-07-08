@@ -14,7 +14,7 @@ We use route middleware to do something before a request is processed. This coul
 
 ## Reflection
 
-What are your learning goals after reading and reviewing the class README?
+My goals after reading and reviewing the class README are understanding Express.router(), CRUD Operations with REST and Express, and Sequelize. I want to learn how to utilize these tools to create a full stack application.
 
 ### Resources I use
 

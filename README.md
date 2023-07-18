@@ -76,6 +76,7 @@ My favorite quote is
 3. [Express REST API](code-401/reading-notes-3.md)
 4. [Data Modeling](code-401/reading-notes-4.md)
 5. [Linked Lists](code-401/reading-notes-5.md)
+6. [Authentication](code-401/reading-notes-6.md)
 
 ### On my freetime this is what I like to do
 

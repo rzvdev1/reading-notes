@@ -78,6 +78,7 @@ My favorite quote is
 5. [Linked Lists](code-401/reading-notes-5.md)
 6. [Authentication](code-401/reading-notes-6.md)
 7. [Bearer Authorization](code-401/reading-notes-7.md)
+8. [Access Control (ACL)](code-401/reading-notes-8.md)
 
 ### On my freetime this is what I like to do
 

@@ -79,6 +79,7 @@ My favorite quote is
 6. [Authentication](code-401/reading-notes-6.md)
 7. [Bearer Authorization](code-401/reading-notes-7.md)
 8. [Access Control (ACL)](code-401/reading-notes-8.md)
+9. [Event Driven Applications](code-401/reading-notes-11.md)
 
 ### On my freetime this is what I like to do
 

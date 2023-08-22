@@ -82,6 +82,7 @@ My favorite quote is
 9. [Event Driven Applications](code-401/reading-notes-11.md)
 10. [Socket.io](code-401/reading-notes-12.md)
 11. [Message Queues](code-401/reading-notes-13.md)
+12. [AWS: Cloud Servers](code-401/reading-notes-16.md)
 
 ### On my freetime this is what I like to do
 

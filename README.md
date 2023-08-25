@@ -83,6 +83,7 @@ My favorite quote is
 10. [Socket.io](code-401/reading-notes-12.md)
 11. [Message Queues](code-401/reading-notes-13.md)
 12. [AWS: Cloud Servers](code-401/reading-notes-16.md)
+13. [AWS: S3 and Lambda](code-401/reading-notes-17.md)
 
 ### On my freetime this is what I like to do
 

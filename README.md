@@ -87,6 +87,7 @@ My favorite quote is
 14. [AWS: API, Dynamo and Lambda](code-401/reading-notes-18.md)
 15. [AWS: Events](code-401/reading-notes-19.md)
 16. [Component Based UI](code-401/reading-notes-20.md)
+17. [useState Hook](code-401/reading-notes-21.md)
 
 ### On my freetime this is what I like to do
 

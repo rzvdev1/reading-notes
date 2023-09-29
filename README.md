@@ -88,6 +88,7 @@ My favorite quote is
 15. [AWS: Events](code-401/reading-notes-19.md)
 16. [Component Based UI](code-401/reading-notes-20.md)
 17. [useState Hook](code-401/reading-notes-21.md)
+18. [useEffect Hook](code-401/reading-notes-22.md)
 
 ### On my freetime this is what I like to do
 

@@ -89,6 +89,7 @@ My favorite quote is
 16. [Component Based UI](code-401/reading-notes-20.md)
 17. [useState Hook](code-401/reading-notes-21.md)
 18. [useEffect Hook](code-401/reading-notes-22.md)
+19. [Advanced State with Reducers](code-401/reading-notes-23.md)
 
 ### On my freetime this is what I like to do
 

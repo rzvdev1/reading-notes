@@ -92,6 +92,7 @@ My favorite quote is
 19. [Advanced State with Reducers](code-401/reading-notes-23.md)
 20. [Hash Tables](code-401/reading-notes-24.md)
 21. [Context API](code-401/reading-notes-25.md)
+22. [Context API - Behaviors](code-401/reading-notes-26.md)
 
 ### On my freetime this is what I like to do
 

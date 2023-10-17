@@ -93,6 +93,7 @@ My favorite quote is
 20. [Hash Tables](code-401/reading-notes-24.md)
 21. [Context API](code-401/reading-notes-25.md)
 22. [Context API - Behaviors](code-401/reading-notes-26.md)
+23. [Login & Auth](code-401/reading-notes-27.md)
 
 ### On my freetime this is what I like to do
 

@@ -95,6 +95,7 @@ My favorite quote is
 22. [Context API - Behaviors](code-401/reading-notes-26.md)
 23. [Login & Auth](code-401/reading-notes-27.md)
 24. [Graphs](code-401/reading-notes-28.md)
+25. [Redux](code-401/reading-notes-29.md)
 
 ### On my freetime this is what I like to do
 

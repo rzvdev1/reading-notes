@@ -97,6 +97,7 @@ My favorite quote is
 24. [Graphs](code-401/reading-notes-28.md)
 25. [Redux](code-401/reading-notes-29.md)
 26. [Redux - Combined Reducers](code-401/reading-notes-30.md)
+27. [Redux - Asynchronous Actions](code-401/reading-notes-31.md)
 
 ### On my freetime this is what I like to do
 

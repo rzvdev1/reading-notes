@@ -100,7 +100,7 @@ My favorite quote is
 27. [Redux - Asynchronous Actions](code-401/reading-notes-31.md)
 28. [Redux - Additional Topics](code-401/reading-notes-32.md)
 29. [React Native](code-401/reading-notes-33.md)
-30. [Ethics in Tech](./reading-notes/EthicsinTech.md)
+30. [Ethics in Tech](./reading-notes/EthicsinTech.md) 31.[Open-Source Software Contribution](code-401/reading-notes-34.md)
 
 ### On my freetime this is what I like to do
 
